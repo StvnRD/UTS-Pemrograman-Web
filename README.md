@@ -22,4 +22,4 @@ https://www.graphberry.com/item/sparkle-free-multipurpose-tweb-emplate
 ![3](https://user-images.githubusercontent.com/56438848/117048051-c46c3180-ad3c-11eb-8f4e-53b68410f1f6.JPG)
 </br>
 
-<i>Screenshot sumber asli tersedia dalam folder Screenshot/Sumber atau file psd yang sudah tercantum diatas</i>
+</br><i>Screenshot sumber asli tersedia dalam folder Screenshot/Sumber atau file psd yang sudah tercantum diatas</i>
